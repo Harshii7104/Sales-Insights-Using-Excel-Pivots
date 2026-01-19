@@ -1,0 +1,5 @@
+1. Certain products contribute the majority of total sales, indicating strong product demand.
+2. Some regions consistently outperform others across customer types.
+3. CustomerType significantly influences revenue contribution.
+4. Higher shipping costs reduce overall profit margins.
+5. Profitability varies across regions, highlighting optimization opportunities.
